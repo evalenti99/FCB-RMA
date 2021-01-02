@@ -5,8 +5,8 @@
 Is there a relationship between the ratio of ‘goals in favour/goals against’ and winning LaLiga games? Close look at the two best clubs in Spain: FC Barcelona and Real Madrid.
 
 # Datasets links: 
-Real Madrid dataset: https://es.wikipedia.org/wiki/Anexo:Estad%C3%ADsticas_del_Real_Madrid_Club_de_F%C3%BAtbol
-FC Barcelona dataset:
+- Real Madrid dataset: https://es.wikipedia.org/wiki/Anexo:Estad%C3%ADsticas_del_Real_Madrid_Club_de_F%C3%BAtbol
+- FC Barcelona dataset:
 https://es.wikipedia.org/wiki/Anexo:Estad%C3%ADsticas_del_F%C3%BAtbol_Club_Barcelona
 
 # Discussion
