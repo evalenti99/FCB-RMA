@@ -2,7 +2,7 @@
 2-hour project where a comparison is made between FCB and RMA, in the period 2011-2019. The main output is a graph that should check all Al Cairo's indicators. This was my final assignment for Coursera's "Applied Plotting, Charting & Data Representation in Python".
 
 # Question: 
-is there a relationship between the ratio of ‘goals in favour/goals against’ and winning LaLiga games? Close look at the two best clubs in Spain: FC Barcelona and Real Madrid.
+Is there a relationship between the ratio of ‘goals in favour/goals against’ and winning LaLiga games? Close look at the two best clubs in Spain: FC Barcelona and Real Madrid.
 
 # Datasets links: 
 Real Madrid dataset: https://es.wikipedia.org/wiki/Anexo:Estad%C3%ADsticas_del_Real_Madrid_Club_de_F%C3%BAtbol
