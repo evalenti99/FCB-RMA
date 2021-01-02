@@ -1,5 +1,5 @@
 # project-plotting-fcb-rma
-2-hour project where a comparison is made between FCB and RMA, in the period 2011-2019. The main output is a graph that should check all Al Cairo's indicators. This was my final assignment for Coursera's "Applied Plotting, Charting & Data Representation in Python".
+2-hour project where a comparison is made between FCB and RMA, over the period 2011-2019. The main output is a graph that should check all Al Cairo's indicators. This was my final assignment for Coursera's "Applied Plotting, Charting & Data Representation in Python".
 
 # Question: 
 Is there a relationship between the ratio of ‘goals in favour/goals against’ and winning LaLiga games? Close look at the two best clubs in Spain: FC Barcelona and Real Madrid.
